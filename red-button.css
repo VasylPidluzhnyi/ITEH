@@ -1,0 +1,10 @@
+.like-red-button {
+    background-color: lightcoral;
+    padding: 10px;
+    display: inline-block;
+    color: black;
+}
+
+.like-red-button:hover {
+    background-color: blueviolet;
+}

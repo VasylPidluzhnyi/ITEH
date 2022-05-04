@@ -1,0 +1,10 @@
+.flex-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.flex-container > div {
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+}

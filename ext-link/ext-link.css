@@ -1,0 +1,6 @@
+.ext-link {
+    background-image: url(ext-link.svg);
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+}
